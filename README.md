@@ -92,15 +92,6 @@ lib/
 4. **Envoyer un message** : Taper dans le champ de texte et appuyer sur envoyer
 5. **Réponses automatiques** : L'application simule des réponses après 2 secondes
 
-## 🔧 Corrections Apportées
-
-- ✅ Correction du nom de fichier `conversation_event.dart.dart` → `conversation_event.dart`
-- ✅ Correction des chemins d'imports `../bloc/` → `../blocs/`
-- ✅ Correction de la version `flutter_lints` dans pubspec.yaml
-- ✅ Remplacement de `withOpacity` par `withValues` (syntaxe moderne)
-- ✅ Conversion des paramètres `Key? key` en super parameters
-- ✅ Suppression des imports inutilisés
-- ✅ Ajout de la fonctionnalité de badges pour messages non lus
 
 ## 🎨 Interface Utilisateur
 
